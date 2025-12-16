@@ -24,7 +24,7 @@ public final class HUD extends Module implements HudListener {
 			.setDescription(EncryptedString.of("Renders module array list"));
 
 	public HUD() {
-		super(EncryptedString.of("HUD"),
+		super(EncryptedString.of("croxzsahhclient"),
 				EncryptedString.of("Renders the client version and enabled modules on the HUD"),
 				-1,
 				Category.RENDER);
